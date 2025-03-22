@@ -12,3 +12,7 @@ Description:
 4. Check the required permission/access control of the bucket.
 
 5. Verify the working using the endpoint of bucket.
+
+   
+
+Complete step-by-step documentation: [Google Docs link](https://docs.google.com/document/d/1ztFAhKyP-zPfS5VAFE-VbkKYpfZNLpqsSfwNIQhQ0QI/edit?tab=t.0)
